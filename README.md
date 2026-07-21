@@ -7,7 +7,7 @@ Builds Android (APK) dos meus projetos pessoais, publicadas aqui como *releases*
 | Projeto | Versão | Download |
 |---|---|---|
 | **Semana no Prato** — planejador de cardápio semanal | v1.1.0 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/semana-no-prato-v1.0.0/SemanaNoPrato.apk) |
-| **RadarAlert** — alerta de proximidade de radares de velocidade | v0.3.11 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.3.11/RadarAlert-v0.3.11.apk) |
+| **RadarAlert** — alerta de proximidade de radares de velocidade | v0.3.12 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.3.12/RadarAlert-v0.3.12.apk) |
 | **RadarAlert** — base de radares (CSV) | — | [⬇️ Baixar CSV](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-data/maparadar.csv) |
 
 Todas as versões, incluindo anteriores, ficam disponíveis em [Releases](https://github.com/andrelunna-cpu/apks/releases).
