@@ -6,8 +6,12 @@ Builds Android (APK) dos meus projetos pessoais, publicadas aqui como *releases*
 
 | Projeto | Versão | Download |
 |---|---|---|
-| **Semana no Prato** — planejador de cardápio semanal | v1.1.0 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/semana-no-prato-v1.0.0/SemanaNoPrato.apk) |
-| **RadarAlert** — alerta de proximidade de radares de velocidade | v0.12.2 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.12.2/RadarAlert-v0.12.2.apk) |
-| **RadarAlert** — base de radares (CSV) | — | [⬇️ Baixar CSV](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-data/maparadar.csv) |
+| **RadarAlert** — alerta de proximidade de radares de velocidade | v0.12.3 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.12.3/RadarAlert-v0.12.3.apk) |
 
-Todas as versões, incluindo anteriores, ficam disponíveis em [Releases](https://github.com/andrelunna-cpu/apks/releases).
+### Como instalar
+
+1. Baixe o APK pelo link acima, no próprio celular
+2. Abra o arquivo baixado — o Android vai avisar que é de "fonte desconhecida"; autorize a instalação para o navegador (só é pedido uma vez)
+3. Toque em **Instalar**
+
+Atualizando de uma versão anterior? É só instalar por cima — suas configurações e sua conta são mantidas.
