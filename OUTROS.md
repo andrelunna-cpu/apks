@@ -10,7 +10,7 @@ O app beta e o app oficial atualizam por canais separados: quem instala uma beta
 
 | Versão | Download |
 |---|---|
-| v0.13.0-beta4 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-beta-v0.13.0-beta4/RadarAlert-beta-v0.13.0-beta4.apk) |
+| v0.14.0-beta1 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-beta-v0.14.0-beta1/RadarAlert-beta-v0.14.0-beta1.apk) |
 
 ## Outros projetos
 
