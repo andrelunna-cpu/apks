@@ -6,7 +6,7 @@ Builds Android (APK) dos meus projetos pessoais, publicadas aqui como *releases*
 
 | Projeto | Versão | Download |
 |---|---|---|
-| **RadarAlert** — alerta de proximidade de radares de velocidade |  v0.16.1 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.16.1/RadarAlert-v0.16.1.apk) |
+| **RadarAlert** — alerta de proximidade de radares de velocidade |  v0.16.2 | [⬇️ Baixar APK](https://github.com/andrelunna-cpu/apks/releases/download/radaralert-v0.16.2/RadarAlert-v0.16.2.apk) |
 
 ### Como instalar
 
